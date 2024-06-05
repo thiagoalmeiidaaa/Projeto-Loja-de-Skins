@@ -1,4 +1,4 @@
-# cs-go-store
-A simple CS:GO skin shop in python.
+# Projeto Loja de Skins
+Uma simples loja de skins de CS:GO em python.
 
-Download the folder, extract it and it's ready to use.
+Baixe a pasta, extraia e estará pronto para uso.
